@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://amal.zone"><img src="https://img.shields.io/badge/amal.zone-000000?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="https://linktr.ee/amalsaidov"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
   <a href="https://t.me/inskarma"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://play.google.com/store/apps/developer?id=Karma+Apps"><img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
 </p>
 
 ---
@@ -26,19 +26,26 @@
     <td><b>Simple Currency</b></td>
     <td>Currency & crypto converter</td>
     <td>Flutter · Dart</td>
-    <td><a href="https://play.google.com/store/apps/details?id=com.karma.simplecurrency">Play Store</a></td>
+    <td>
+      <a href="https://apps.apple.com/app/id6761734150"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/></a>
+      <a href="https://play.google.com/store/apps/details?id=com.karma.simplecurrency"><img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
+    </td>
   </tr>
   <tr>
     <td><b>Simple Wallet</b></td>
     <td>Multi-chain crypto wallet (ETH, Polygon, BSC, Base)</td>
     <td>Flutter · Web3 · EVM</td>
-    <td><a href="https://play.google.com/store/apps/details?id=com.karma.simple_wallet">Play Store</a></td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.karma.simple_wallet"><img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
+    </td>
   </tr>
   <tr>
     <td><b>Simple Ledge</b></td>
-    <td>Personal finance app, offline JSON storage, GPT-4o AI</td>
+    <td>Personal finance — offline JSON storage, GPT-4o AI</td>
     <td>Flutter · Provider · OpenAI</td>
-    <td><a href="https://github.com/amalsaidov/simple-ledge">GitHub</a></td>
+    <td>
+      <a href="https://github.com/amalsaidov/simple-ledge"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
   </tr>
 </table>
 
