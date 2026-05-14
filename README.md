@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  Full-stack developer · Tashkent, Uzbekistan<br/>
-  Mobile apps · Games · Web products · Backend systems
+  Full-stack developer · Bangkok, Thailand<br/>
+  Mobile apps · Blockchain ·  Games · Web products · Backend systems
 </p>
 
 <p align="center">
