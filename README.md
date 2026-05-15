@@ -41,8 +41,8 @@
   </tr>
   <tr>
     <td><b>Simple Ledge</b></td>
-    <td>Personal finance — offline JSON storage, GPT-4o AI</td>
-    <td>Flutter · Provider · OpenAI</td>
+    <td>Personal finance — offline JSON storage, AI functionality</td>
+    <td>Flutter · Provider · AI</td>
     <td>
       <a href="https://github.com/amalsaidov/simple-ledge"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
